@@ -1,0 +1,20 @@
+.tackComplete {
+  background-color: gray;
+  font-size: 14px;
+  min-width: 300px;
+}
+
+.tack {
+  min-width: 300px;
+}
+.item button {
+  margin-left: 20px;
+}
+
+.tack input {
+  color: black;
+}
+
+.done {
+  opacity: 0;
+}
